@@ -1,6 +1,6 @@
 #### Porque código limpo
 
-Um código é limpo quando é fácil de entender - por qualquer pessoa da equipe.
+Um código é limpo, quando é fácil de entender - por qualquer pessoa da equipe.
 
 Com entendimento vem a legibilidade, capacidade de mudança, felxibilidade e a manutenabilidade.
 
@@ -18,4 +18,6 @@ Principalmente se você tem em mente que o maior sofrimento e custo será durant
 
 Código não limpo resulta em débito técnico que é crescente com o tempo e se não refatorar para um código limpo.
 
-Há outras razões além do débito tecnico, como a geração de péssima e até mesmo a perda de documentação.
+Há outras razões além do débito tecnico, como a geração péssima de documentação e a perda de documentação e código não limpo é o principal motivo.
+
+E o resultado é a perda de capacidade de responder as mudanças. [referência linha vermelha no gráfico]()
