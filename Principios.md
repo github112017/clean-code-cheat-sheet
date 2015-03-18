@@ -1,3 +1,9 @@
+**Legenda**
+
+| Faça | Não Faça |
+| -- | -- |
+| + | - |
+
 ### Princípios
 
 | Fraco acoplamento | + |
