@@ -1,4 +1,4 @@
-# clean-code-cheat-sheet 
+# Referências Bibliográficas
 
 Tradução do documento: Clean Code Cheat Sheet  
 
