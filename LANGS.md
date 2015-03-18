@@ -1,1 +1,0 @@
-* [Portguês Brasil](/)
