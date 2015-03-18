@@ -15,7 +15,7 @@
 | Coesão é o grau de ligação que dois elementos tem para trabalharem juntos. Métodos e variáveis entre uma classe simples e a classe de um componente devem ter alta coesão. Alta coesão entre classes e componentes resulta em simplificação, e maior facilidade no entendimento da estrutura do codigo e do designe.|
 
 | Mudanças pontuais | + |
-| -- | -- |'
+| -- | -- |
 | Já que sistemas e softwares devem ser mantidos e modificados durante um longo período, mudanças pontuais reduzem os custos e os riscos envolvidos. Manter mudanças pontuais significa que certos limites de designe não são afetados pelas mudanças |
 
 | É fácil remover | + |
