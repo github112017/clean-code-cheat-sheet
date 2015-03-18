@@ -1,4 +1,6 @@
-# Summary
+# Sumário
 
-* Sumario
+* Clean Code Cheat Sheet
+* README
+* LICENSE
 
