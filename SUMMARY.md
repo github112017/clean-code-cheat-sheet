@@ -1,4 +1,5 @@
 # Summary
 
 * Sumario
+* LICENSE
 
