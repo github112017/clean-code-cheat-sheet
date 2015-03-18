@@ -8,7 +8,7 @@
 
 | Fraco acoplamento | + |
 | -- | -- |
-| Duas classes, componente ou modulos estão acoplados quando um depende do outro. Quando menos conhecimento um item tiver do outro,  menor será o acoplamento. Um componente que esta desacoplada do ambiente é muito mais fácil de mudar ou mesmo rever necessidade de fortalecer o acoplamento|
+| Duas classes, componente ou modulos estão acoplados quando um depende do outro. Quanto menos conhecimento um item tiver do outro,  menor será o acoplamento. Um componente que esta desacoplada do ambiente é muito mais fácil de mudar ou mesmo rever necessidade de fortalecer o acoplamento|
 
 | Aumente a coesão | + |
 | -- | -- |
@@ -16,4 +16,4 @@
 
 | Mudanças pontuais | + |
 | -- | -- |
-| Já que systemas e softwares devem ser mantidos e modificados durante um longo período, mudanças pontuais reduzem os custos e os riscos envolvidos. Manter mudanças pontuais significa que certos limites de designe não são afetados pelas mudanças |
+| Já que sistemas e softwares devem ser mantidos e modificados durante um longo período, mudanças pontuais reduzem os custos e os riscos envolvidos. Manter mudanças pontuais significa que certos limites de designe não são afetados pelas mudanças |
