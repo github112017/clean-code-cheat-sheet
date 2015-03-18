@@ -17,3 +17,7 @@
 | Mudanças pontuais | + |
 | -- | -- |
 | Já que sistemas e softwares devem ser mantidos e modificados durante um longo período, mudanças pontuais reduzem os custos e os riscos envolvidos. Manter mudanças pontuais significa que certos limites de designe não são afetados pelas mudanças |
+
+| É fácil remover | + |
+| -- | -- |
+| Nós normalmente construímos software adicionando e extendendo ou mudando funcionalidades. No entanto remover elementos é importante para permitir que o designe fique o mais simples possível. Quando um bloco é muito complicado este precisa ser removido e colocado um ou mais blocos simples. |
