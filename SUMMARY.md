@@ -2,6 +2,6 @@
 
 * [Introdução](README.md)
 * [Código Limpo](Porque codigo limpo.md)
-* [Licensa](LICENSE.md)
+* [Licença](LICENSE.md)
 * [Referência](Reference.md)
 
