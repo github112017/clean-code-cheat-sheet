@@ -1,7 +1,7 @@
 **Legenda**
 
 | Faça | Não Faça |
-| -- | -- |
+| -- | :--: |
 | + | - |
 
 ### Princípios
