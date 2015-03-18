@@ -29,3 +29,9 @@ A maior parte dos bugs são criados quando existe mudanças no código.
 A razão por trás disso é que os desenvolvedores mudam o código sem conseguir entender completamente os efeitos das mudanças.
 
 Código limpo minimiza o risco de introduzir defeitos permitindo um fácil entendimento tanto quanto possível.
+
+ **Legenda**
+
+| Faça | Não Faça |
+| -- | -- |
+| + | - |
