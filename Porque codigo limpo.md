@@ -30,8 +30,4 @@ A razão por trás disso é que os desenvolvedores mudam o código sem conseguir
 
 Código limpo minimiza o risco de introduzir defeitos permitindo um fácil entendimento tanto quanto possível.
 
- **Legenda**
-
-| Faça | Não Faça |
-| -- | -- |
-| + | - |
+ 
