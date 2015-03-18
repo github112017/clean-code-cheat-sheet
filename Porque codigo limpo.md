@@ -22,7 +22,7 @@ Há outras razões além do débito tecnico, como a geração péssima de docume
 
 E o resultado é a perda de capacidade de responder as mudanças. [referência linha vermelha no gráfico]()
 
-### Em código limpo bug não pode se esconder
+### Em código limpo erro não pode se esconder
 
 A maior parte dos bugs são criados quando existe mudanças no código.
 
