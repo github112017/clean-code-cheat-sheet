@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Sumario](SUMMARY.md)
-* LICENSE
+* [License](LICENSE.md)
 
