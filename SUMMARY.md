@@ -5,4 +5,5 @@
 * [Princípios](Principios.md)
 * [Licença](LICENSE.md)
 * [Referência](Reference.md)
+* book.json
 
