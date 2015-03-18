@@ -1,7 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-* [Sumario](SUMMARY.md)
-* [License](LICENSE.md)
-* [Reference](Reference.md)
+* [Sumário](SUMMARY.md)
+* [Introdução](README.md)
+* [Licensa](LICENSE.md)
+* [Referência](Reference.md)
 
