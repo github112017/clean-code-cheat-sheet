@@ -1,4 +1,4 @@
-## Porque código limpo
+## Porquê código limpo
 
 Um código é limpo, quando é fácil de entender - por qualquer pessoa da equipe.
 
