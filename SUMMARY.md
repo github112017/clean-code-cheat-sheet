@@ -5,5 +5,5 @@
 * [Princípios](Principios.md)
 * [Licença](LICENSE.md)
 * [Referência](Reference.md)
-* [Fedor](Fedor ou Mau Cheiro.md)
+* [Fedor](Fedor.md)
 
