@@ -24,7 +24,7 @@ E o resultado é a perda de capacidade de responder as mudanças. [referência l
 
 ### Em código limpo erro não pode se esconder
 
-A maior parte dos bugs são criados quando existe mudanças no código.
+A maior parte dos erros são criados quando existe mudanças no código.
 
 A razão por trás disso é que os desenvolvedores mudam o código sem conseguir entender completamente os efeitos das mudanças.
 
