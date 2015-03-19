@@ -4,8 +4,8 @@
 * [Código Limpo](Porque codigo limpo.md)
 * [Princípios](Principios.md)
 * [Fedor](Fedor.md)
+   * Complexidade desnecessária
 * [Designe da classe](DesigneDaClasse.md)
 * [Licença](LICENSE.md)
 * [Referência](Reference.md)
-
 
