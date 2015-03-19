@@ -21,13 +21,3 @@ Código não limpo resulta em débito técnico que é crescente com o tempo e se
 Há outras razões além do débito tecnico, como a geração péssima de documentação e a perda de documentação e código não limpo é o principal motivo.
 
 E o resultado é a perda de capacidade de responder as mudanças. [referência linha vermelha no gráfico]()
-
-### Em código limpo erro não pode se esconder
-
-A maior parte dos erros são criados quando existe mudança no código.
-
-A razão por trás disso é que os desenvolvedores mudam o código sem conseguir entender completamente os efeitos das mudanças.
-
-Código limpo minimiza o risco de introduzir defeitos permitindo um fácil entendimento tanto quanto possível.
-
- 
