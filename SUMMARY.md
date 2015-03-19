@@ -9,4 +9,5 @@
 * [Designe da classe](designe_da_classe.md)
 * [Licença](LICENSE.md)
 * [Referência](referencia.md)
+* Pacote coeso
 
