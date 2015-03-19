@@ -6,7 +6,7 @@ Com entendimento vem a legibilidade, capacidade de mudança, felxibilidade e a m
 
 Todas as coisas necessárias para um projeto de longo prazo sem acumular uma grande quantidade de débitos técnicos.
 
-[Grafico debito técnico vs cost vs mudanças]()
+[Grafico debito técnico vs custo vs mudanças]()
 
 Escrever código limpo desde o inicio do projeto é um investimento em manter o custo das mudanças o mais estável possível durante o ciclo de vida de um projeto.
 
