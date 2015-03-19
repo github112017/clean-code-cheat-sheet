@@ -1,0 +1,2 @@
+# Designe da classe
+
