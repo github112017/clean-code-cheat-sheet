@@ -6,5 +6,5 @@
 * [Fedor](Fedor.md)
 * [Licença](LICENSE.md)
 * [Referência](Reference.md)
-* Designe da classe
+* [Designe da classe](DesigneDaClasse.md)
 
