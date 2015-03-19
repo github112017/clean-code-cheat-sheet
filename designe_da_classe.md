@@ -23,4 +23,4 @@
 
 | Classes devem ser pequenas | + |
 | -- |
-| Classes pequenas são faceis de compreender. Classes devem ser pequenas em torno de 100 linhas de códigos. Caso contrário fica muito difícil de se detectar o que a classe faz, e provavelmente tem mais que uma responsabilidade.
+| Classes pequenas são faceis de compreender. Classes devem ser pequenas em torno de 100 linhas de códigos. Caso contrário fica muito difícil de se detectar o que a classe faz, e provavelmente tem mais que uma responsabilidade. |
