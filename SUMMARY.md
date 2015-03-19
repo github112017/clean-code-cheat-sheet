@@ -2,7 +2,7 @@
 
 * [Introdução](README.md)
 * [Código Limpo](Porque codigo limpo.md)
-   * Em código limpo erro não pode se esconder
+   * [Em código limpo erro não pode se esconder](em_codigo_limpo_erro_nao_pode_se_esconder.md)
 * [Princípios](Principios.md)
 * [Fedor](Fedor.md)
    * [Complexidade desnecessária](complexidade_desnecessaria.md)
