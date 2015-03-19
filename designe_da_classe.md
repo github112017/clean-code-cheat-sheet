@@ -1,6 +1,6 @@
 # Designe da classe
 
-| Responsabilidade Unica (SRP)| + |
+| Principio da responsabilidade Unica (SRP)| + |
 | -- |
 | A classe deve ter um e apenas um motivo para mudar |
 
