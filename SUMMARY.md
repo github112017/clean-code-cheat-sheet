@@ -6,7 +6,7 @@
 * [Princípios](Principios.md)
 * [Fedor](Fedor.md)
    * [Complexidade desnecessária](complexidade_desnecessaria.md)
-* [Designe da classe](DesigneDaClasse.md)
+* [Designe da classe](designe_da_classe.md)
 * [Licença](LICENSE.md)
 * [Referência](Reference.md)
 
