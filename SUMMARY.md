@@ -10,5 +10,5 @@
 * [Pacote coeso](pacote_coeso.md)
 * [Licença](LICENSE.md)
 * [Referência](referencia.md)
-* Acoplamento de pacote
+* [Acoplamento de pacote](acoplamento_de_pacote.md)
 
