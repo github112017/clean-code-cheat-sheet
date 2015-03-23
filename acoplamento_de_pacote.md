@@ -8,3 +8,6 @@
 | -- |
 | Dependência na direção da estabilidade |
 
+| Principio da abstração estável (SAP) | + |
+| -- |
+| Acrescentar a abstração com estabilidade |
