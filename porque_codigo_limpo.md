@@ -22,5 +22,4 @@ Código não limpo resulta em débito técnico que é crescente com o tempo e se
 
 Há outras razões além do débito tecnico, como a geração péssima de documentação e a perda de documentação e código não limpo é o principal motivo.
 
-E o resultado é a perda de capacidade de responder as mudanças. 
-**linha vermelha no gráfico**
+E o resultado é a perda de capacidade de responder as mudanças, **linha vermelha no gráfico**
