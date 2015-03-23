@@ -1,2 +1,1 @@
-# Estrutura sobre convensão
 
