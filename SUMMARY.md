@@ -16,5 +16,5 @@
 * [Referência](referencia.md)
 * [Designe](designe.md)
    * [Estrutura sobre convensão](estrutura_sobre_convensao.md)
-   * Responsabilidade em lugares errados
+   * [Responsabilidade em lugares errados](responsabilidade_em_lugares_errados.md)
 
