@@ -4,4 +4,4 @@
 
 | Código em niveil errado de abstração | -
 | -- |
-| Funcionalidade em nível errado de abstração ex: propriedade PercentageFully em um generico IStack <T> |
+| Funcionalidade em nível errado de abstração ex: propriedade PercentageFully em um generico IStack< T >. |
