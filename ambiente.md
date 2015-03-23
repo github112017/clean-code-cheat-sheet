@@ -1,6 +1,6 @@
 # Ambiente
 
-| Sobrescreva mecanismo de segurança   | - |
+| Sobrsecreva mecanismo de segurança   | - |
 | -- |
 | Não sobrescreva alertas, erros,  chamadas de exceçoes. Eles irão pegar você |
 
