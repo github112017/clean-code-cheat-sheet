@@ -1,7 +1,7 @@
 
-| Estrutura sobre convesão | + 
+| Estrutura sobre convenção | + 
 | -- |
-| Force o designe com estruturas sobre convesão. Declarar convesão é bom, mas são inferiores a estruturas que força a conformidade |
+| Force o designe com estruturas sobre convenção. Declarar convenção é bom, mas são inferiores a estruturas que força a conformidade |
 
 | Prefira polimorfismo a utilizar If/Else e Switch/Case | + 
 | -- |
@@ -9,7 +9,7 @@
 
 | Simetria/Analogia | +
 | -- |
-| Favoreça designe simetricos (ex: Load-Save) e designes que levem a analogias (ex: o mesmo designe pode ser encontrado no framework .NET). |
+| Favoreça designe simétricos (ex: Load-Save) e designes que levem a analogias (ex: o mesmo designe pode ser encontrado no framework .NET). |
 
 | Separe código multi-threading | +
 | -- |
