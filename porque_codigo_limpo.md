@@ -13,7 +13,8 @@ Escrever código limpo desde o inicio do projeto é um investimento em manter o 
 No entando, o custo inicial das mudanças é um pouco alta, quando escrevemos código limpo **linha cinza no gráfico**,
 
 
-comparado a escrever código sujo e rápido **linha preta no gráfico**
+comparado a escrever código sujo e rápido **linha preta no gráfico**,
+
 porém o retorno do investimento é pago rapidamente.
 
 Principalmente se você tem em mente que o maior sofrimento e custo será durante a manutenção do software.
