@@ -10,10 +10,10 @@
 * [Pacote coeso](pacote_coeso.md)
 * [Acoplamento de pacote](acoplamento_de_pacote.md)
 * [Geral](geral.md)
-* [Licença](LICENSE.md)
-* [Referência](referencia.md)
 * [Ambiente](ambiente.md)
 * [Injeção de dependência](injecao_de_dependencia.md)
+* [Licença](LICENSE.md)
+* [Referência](referencia.md)
 * [Designe](designe.md)
    * [Estrutura sobre convensão](estrutura_sobre_convensao.md)
 
