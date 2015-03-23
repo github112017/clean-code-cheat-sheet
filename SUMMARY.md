@@ -12,9 +12,9 @@
 * [Geral](geral.md)
 * [Ambiente](ambiente.md)
 * [Injeção de dependência](injecao_de_dependencia.md)
-* [Licença](LICENSE.md)
-* [Referência](referencia.md)
 * [Designe](designe.md)
    * [Estrutura sobre convensão](estrutura_sobre_convensao.md)
    * [Responsabilidade em lugares errados](responsabilidade_em_lugares_errados.md)
+* [Licença](LICENSE.md)
+* [Referência](referencia.md)
 
