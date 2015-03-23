@@ -12,3 +12,6 @@
 | -- |
 | Quando você tomar uma decisão no seu código, tenha certeza de que isto é certo. Saber porque você esta fazendo isto e como irá lidar com alguma excessão |
 
+| Estrutura sobre convesão | + 
+| -- |
+| Force o designe com estruturas sobre convesão. Declarar convesão é bom, mas são inferiores a estruturas que força a conformidade |
