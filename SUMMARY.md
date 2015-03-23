@@ -11,3 +11,5 @@
 * [Acoplamento de pacote](acoplamento_de_pacote.md)
 * [Licença](LICENSE.md)
 * [Referência](referencia.md)
+* Geral
+
