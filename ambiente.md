@@ -1,16 +1,16 @@
 # Ambiente
 
-| Sobrsecreva mecanismo de segurança   | - |
+| Sobrescrever mecanismo de segurança   | - |
 | -- |
-| Não sobrescreva alertas, erros,  chamadas de exceçoes. Eles irão pegar você |
+| Não sobrescreva alertas, erros, chamadas de exceções. Eles pegarão você |
 
-| A conctrução de um projeto requer apenas um passo  | + |
+| A construção de um projeto requer apenas um passo  | + |
 | -- |
-| Obter ambiente e construir ambiente requer apenas um commando |
+| Obter ambiente e construir ambiente requer apenas um comando |
 
-| A execução dos testes requer apenas  um passo  | + |
+| A execução dos testes requer apenas um passo  | + |
 | -- |
-| Rodar todos os testes unitários com apenas um commando |
+| Rodar todos os testes unitários com apenas um comando |
 
 | Integração contínua  | + |
 | -- |
@@ -19,4 +19,3 @@
 |  Controle de fonte de sistema  | + |
 | -- |
 | Sempre use controle de fonte de sistema |
-
