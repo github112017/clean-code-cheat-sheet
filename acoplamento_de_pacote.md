@@ -1,10 +1,10 @@
 # Acoplamento de pacote
 
-| Principio da dependencia acíclica (ADP) | + |
+| Principio da dependência acíclica (ADP) | + |
 | -- |
-| O grafo de dependencia de pacotes não deve ter cíclos |
+| O grafo de dependência de pacotes não deve ter ciclos |
 
-| Principio da dependencia estável (SDP) | + |
+| Principio da dependência estável (SDP) | + |
 | -- |
 | Dependência na direção da estabilidade |
 
