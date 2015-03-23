@@ -7,9 +7,9 @@
 * [Fedor](fedor.md)
    * [Complexidade desnecessária](complexidade_desnecessaria.md)
 * [Designe da classe](designe_da_classe.md)
+* [Geral](geral.md)
 * [Pacote coeso](pacote_coeso.md)
 * [Acoplamento de pacote](acoplamento_de_pacote.md)
 * [Licença](LICENSE.md)
 * [Referência](referencia.md)
-* [Geral](geral.md)
 
