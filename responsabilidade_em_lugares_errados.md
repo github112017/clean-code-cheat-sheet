@@ -12,5 +12,8 @@
 
 | Sobrepor configuração | -
 | -- |
-|Preveniir a configuração apenas para o bem desta, ou porque ninguém pode decidir como deve ser. Caso contrário, isto irá resultar em sistemas excessivamente complexos, instáveis |
+| Preveniir a configuração apenas para o bem desta, ou porque ninguém pode decidir como deve ser. Caso contrário, isto irá resultar em sistemas excessivamente complexos, instáveis |
 
+| Micro camadas | -
+| -- |
+| Não adicione funcionalidade no top, mas simplifique o todo |
