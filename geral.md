@@ -2,20 +2,20 @@
 
 | Regra do escoteiro  | + |
 | -- |
-| Mantenha o acapamento limpo para poder se econtrar |
+| Mantenha o acampamento limpo para poder se encontrar |
 
-| Multiplas linguagem em um único arquivo fonte  | - |
+| Múltiplas linguagem em um único arquivo-fonte  | - |
 | -- |
 | C#, Java, JavaScript, XML, HTML, XAML, English, German |
 
 | Seguir padrões e convenções  | + |
 | -- |
-| Codificação, arquitetura, guia de designe (valide com ferramentas ) |
+| Codificação, arquitetura, guia de designe (valide com ferramentas) |
 
 | Analise a causa raiz | + |
 | -- |
-| Sempre procure pela causa raíz do problema. Se não ele ira voltar. |
+| Sempre procure pela causa raiz do problema. Se não ele ira voltar. |
 
-| Se mantenha simples , estupido (KISS) | + |
+| Se mantenha simples, estúpido (KISS) | + |
 | -- |
 | Simples é o melhor caminho. Reduza a complexidade o máximo possível |
