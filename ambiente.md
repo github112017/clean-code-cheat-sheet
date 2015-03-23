@@ -1,8 +1,8 @@
 # Ambiente
 
-| Sobre escrever mecanismo de segurança   | - |
+| Sobrescreva mecanismo de segurança   | - |
 | -- |
-| Não sobre escreva alertas, erros,  chamadas de exceçoes. Eles irão pegar você |
+| Não sobrescreva alertas, erros,  chamadas de exceçoes. Eles irão pegar você |
 
 | A conctrução de um projeto requer apenas um passo  | + |
 | -- |
