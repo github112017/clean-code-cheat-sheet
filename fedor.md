@@ -6,7 +6,7 @@
 
 | Viscosidade de designe | - |
 | -- |
-| Criar atalhos e introduzir debitos técnicos requer menos esforço do que fazer correto. |
+| Criar atalhos e introduzir débitos técnicos requer menos esforço do que fazer correto. |
 
 | Rigidez | - |
 | -- |
