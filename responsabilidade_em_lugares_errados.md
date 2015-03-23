@@ -16,4 +16,4 @@
 
 | Micro camadas | -
 | -- |
-| Não adicione funcionalidade no top, mas simplifique o todo |
+| Não adicione funcionalidade no top, mas simplifique acima de tudo |
