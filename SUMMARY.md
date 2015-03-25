@@ -17,5 +17,5 @@
    * [Responsabilidade em lugares errados](responsabilidade_em_lugares_errados.md)
 * [Licença](LICENSE.md)
 * [Referência](referencia.md)
-* Dependências
+* [Dependências](dependencias.md)
 
