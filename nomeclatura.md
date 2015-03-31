@@ -14,5 +14,4 @@
 
 |Nome da classe após como este implementa a interface| + |
 |--|
-|O nome de uma classe deve refletir como ela cumpre a funcionalidade fornecida por sua interface (s), como MemoryStream: IStream
-|
+|O nome de uma classe deve refletir como ela cumpre a funcionalidade fornecida por sua interface (s), como MemoryStream: IStream |
