@@ -12,7 +12,7 @@
 |--|
 |The name of an interface should be derived from its usage by the client. |
 
-|Nome da classe apos como este implementa a interface| + |
+|Nome da classe após como este implementa a interface| + |
 |--|
 |O nome de uma classe deve refletir como ela cumpre a funcionalidade fornecida por sua interface (s), como MemoryStream: IStream
 |
