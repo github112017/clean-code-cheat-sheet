@@ -1,2 +1,1 @@
-# Acoplamento temporário invisível
 
