@@ -2,7 +2,7 @@
 
 | Escolha nomes descritivos / Nomes não ambíguos | + |
 |--|
-|Nome deve refletir o que a váriavel, campo ou propriedade padrão realmente são. Nomes devem ser precisos|
+| Nome deve refletir o que a váriavel, campo ou propriedade padrão realmente são. Nomes devem ser precisos |
 
 |Escolha nomes apropriados ao nível de abstração |+|
 |--|
