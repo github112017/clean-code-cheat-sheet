@@ -16,6 +16,7 @@
    * [Estrutura sobre convensão](estrutura_sobre_convensao.md)
    * [Responsabilidade em lugares errados](responsabilidade_em_lugares_errados.md)
 * [Dependências](dependencias.md)
-* [Nomeclatura](nomeclatura.md)
+* [Nomenclatura](nomenclatura.md)
 * [Licença](LICENSE.md)
 * [Referência](referencia.md)
+
