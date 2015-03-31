@@ -18,6 +18,7 @@
 * [Dependências](dependencias.md)
    * [Acoplamento temporário invisível](acoplamento_temporario_invisivel.md)
 * [Nomenclatura](nomenclatura.md)
+   * ***(Não sei traduzir)*** Name Interfaces After Functionality They Abstract
 * [Licença](LICENSE.md)
 * [Referência](referencia.md)
 
