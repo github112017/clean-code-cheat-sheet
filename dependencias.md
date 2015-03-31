@@ -27,3 +27,8 @@
 | Não sei traduzir este titulo ( Feature Envy ) | - |
 |--|
 | O método de uma classe deve estar interessado em variáveis e métodos da classe a que pertence e não em variavel e funções de outra classe. Utilizar acessores e modificadores para manipular os dados de algum outro objeto, é ultrapassar o escopo de outro objeto. |
+
+| Navegação transitiva |-|
+|--|
+| Aqui conhecido como lei de Demeter, escrevendo código tímido.
+Um modulo deve conhecer somente as dependências diretas deste.|
