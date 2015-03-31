@@ -30,5 +30,4 @@
 
 | Navegação transitiva |-|
 |--|
-| Aqui conhecido como lei de Deméter, escrevendo código tímido.
-Um modulo deve conhecer somente as dependências diretas deste.|
+| Aqui conhecido como lei de Deméter, escrevendo código tímido. Um modulo deve conhecer somente as dependências diretas deste.|
