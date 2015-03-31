@@ -22,5 +22,5 @@
 
 | Use longos nomes para longo escopo |+|
 |--|
-|Campos --> parametros --> variável local --> variável loop |
+|Campos --> parâmetros --> variável local --> variável loop |
 |Longo --> curtos|
