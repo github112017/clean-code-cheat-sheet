@@ -24,3 +24,11 @@
 |--|
 |Campos --> parâmetros --> variável local --> variável loop |
 |Longo --> curtos|
+
+| Nome descreve todos os efeitos |
+|--|
+| Nome deve refletir a funcionalidade completa |
+
+|Padronizar nomeclatura onde possível |
+|--|
+| Não invente sua propria linguagem quando há um padrão |
