@@ -25,10 +25,14 @@
 |Campos --> parâmetros --> variável local --> variável loop |
 |Longo --> curtos|
 
-| Nome descreve todos os efeitos |
+| Nome descreve todos os efeitos |+|
 |--|
 | Nome deve refletir a funcionalidade completa |
 
-|Padronizar nomeclatura onde possível |
+|Padronizar nomeclatura onde possível |+|
 |--|
 | Não invente sua propria linguagem quando há um padrão |
+
+|Enconding em nomes|-|
+|--|
+|Não use prefixo nem informação do escopo |
