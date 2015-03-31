@@ -19,3 +19,8 @@
 |Nome de métodos descreve o que ele faz | + |
 |--|
 | O nome do método descreve o que ele faz, não como ele faz |
+
+| Use longos nomes para longo escopo |+|
+|--|
+|Campos --> parametros --> variável local --> variável loop |
+|Longo --> curtos|
