@@ -10,8 +10,12 @@
 
 | ***(Não sei traduzir)*** Name Interfaces After Functionality They Abstract | +|
 |--|
-|The name of an interface should be derived from its usage by the client. |
+| The name of an interface should be derived from its usage by the client. |
 
-|Nome da classe após como este implementa a interface| + |
+|Nome da classe seguido da a interface| + |
 |--|
-|O nome de uma classe deve refletir como ela cumpre a funcionalidade fornecida por sua interface (s), como MemoryStream: IStream |
+| O nome de uma classe deve relfletir como funciona e interface que ela implementa, como MemoryStream: IStream |
+
+|Nome de métodos descreve o que ele faz |
+|--|
+| O nome do método descreve o que ele faz, não como ele faz |
