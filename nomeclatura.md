@@ -16,6 +16,6 @@
 |--|
 | O nome de uma classe deve relfletir como funciona e interface que ela implementa, como MemoryStream: IStream |
 
-|Nome de métodos descreve o que ele faz |
+|Nome de métodos descreve o que ele faz | + |
 |--|
 | O nome do método descreve o que ele faz, não como ele faz |
