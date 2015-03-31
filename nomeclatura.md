@@ -1,4 +1,4 @@
-# Nomeclatura
+# Nomenclatura
 
 | Nome descreve todos os efeitos |+|
 |--|
@@ -8,9 +8,9 @@
 |--|
 |Não use prefixo nem informação do escopo |
 
-|Padronizar nomeclatura onde possível |+|
+|Padronizar nomenclatura onde possível |+|
 |--|
-| Não invente sua propria linguagem quando há um padrão |
+| Não invente sua própria linguagem quando há um padrão |
 
 | Use longos nomes para longo escopo |+|
 |--|
@@ -27,12 +27,12 @@
 
 |Escolha nomes apropriados ao nível de abstração |+|
 |--|
-| Escolha nomes que reflitam o nível de abstração que você esta trabalhando. |
+| Escolha nomes que reflitam o nível de abstração que você está trabalhando. |
 
 | Escolha nomes descritivos / Nomes não ambíguos | + |
 |--|
-| Nome deve refletir o que a váriavel, campo ou propriedade padrão realmente são. Nomes devem ser precisos |
+| Nome deve refletir o que a variável, campo ou propriedade padrão realmente são. Nomes devem ser precisos |
 
-|Nome da classe seguido da a interface| + |
+|Nome da classe seguido da interface| + |
 |--|
-| O nome de uma classe deve relfletir como funciona e interface que ela implementa, como MemoryStream: IStream |
+| O nome de uma classe deve refletir como funciona e interface que ela implementa, como MemoryStream: IStream |
